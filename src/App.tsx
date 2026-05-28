@@ -497,10 +497,10 @@ export default function App() {
 
             <div className="hidden lg:flex items-center gap-3 pl-8 border-l border-forma-ink border-dashed">
               <div className="text-right">
-                <p className="text-sm font-black leading-none">Imdadurrohman</p>
+                <p className="text-sm font-black leading-none">Alghaniii</p>
                 <p className="text-[10px] uppercase font-bold opacity-30">Admin</p>
               </div>
-              <div className="w-10 h-10 border-2 border-forma-ink flex items-center justify-center font-black">IR</div>
+              <div className="w-10 h-10 border-2 border-forma-ink flex items-center justify-center font-black">80</div>
             </div>
           </div>
         </header>
