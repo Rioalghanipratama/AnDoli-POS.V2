@@ -435,7 +435,7 @@ export default function App() {
         "lg:relative lg:w-20 lg:h-screen lg:flex-col lg:py-8 lg:border-r-2 lg:justify-start lg:gap-12" // Desktop
       )}>
         <div className="hidden lg:flex w-10 h-10 border-2 border-forma-bg items-center justify-center text-xl font-black mb-12">
-          AD
+          80
         </div>
 
         <div className="flex flex-row lg:flex-col lg:flex-1 items-center gap-6 lg:gap-6">
@@ -500,7 +500,7 @@ export default function App() {
                 <p className="text-sm font-black leading-none">Alghaniii</p>
                 <p className="text-[10px] uppercase font-bold opacity-30">Admin</p>
               </div>
-              <div className="w-10 h-10 border-2 border-forma-ink flex items-center justify-center font-black">80</div>
+              <div className="w-10 h-10 border-2 border-forma-ink flex items-center justify-center font-black">A</div>
             </div>
           </div>
         </header>
